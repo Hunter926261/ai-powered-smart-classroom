@@ -1123,7 +1123,7 @@ Score range: 0–100 (scaled × 100)
 
 ## 📜 License
 
-This project is developed as an academic EDI (Engineering Design and Innovation) project.
+This Project is assigned to us by Gearup Technologies and also developed as an academic EDI (Engineering Design and Innovation) project.
 
 ---
 
